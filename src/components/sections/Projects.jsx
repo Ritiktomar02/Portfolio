@@ -39,7 +39,7 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Insta Clone</h3>
+              <h3 className="text-xl font-bold mb-2">CaptureX</h3>
               <p className="text-gray-400 mb-4">
               Implemented a full-stack social media platform using ReactJS, NodeJS, ExpressJS, and
               MongoDB, enabling seamless user interaction.
